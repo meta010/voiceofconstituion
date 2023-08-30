@@ -358,11 +358,11 @@ figure {
 }
 .sf-menu a:hover, .sf-menu a:focus {
 
-  background-color: #e48913 !important;
+  background-color: #bb9a07 !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  background-color: 	 #e48913;
+  background-color: 	 #bb9a07;
 }
 
 .sf-menu li,
