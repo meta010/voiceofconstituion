@@ -1,0 +1,30 @@
+body {
+    font-family: "Open Sans", Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+    background: #fff;
+    color: #848484;
+    font-weight: 300;
+    overflow-x: hidden;
+  }
+  body.fh5co-offcanvas {
+    overflow: hidden;
+  }
+  #header-top{
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  #header-top> h4{
+    font-size: larger;
+    font-weight: 600;
+    color: black;
+
+  }
+  #header-top p{
+    color: black;
+  }
+  #header-top li{
+    color: black;
+  }
