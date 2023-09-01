@@ -15,7 +15,7 @@
 }
 
 body{
-  background:#eeee;
+  background:white;
 }
 
 #slider{
@@ -95,10 +95,10 @@ body {
 body.fh5co-offcanvas {
   overflow: hidden;
 }
-/* #logo-id{
+#logo-id{
   width: 100%;
   height: 60px;
-} */
+}
 
 a {
   color: 	 #0039a6;
@@ -370,7 +370,7 @@ figure {
 .sf-menu ul ul li,
 .sf-menu li:hover,
 .sf-menu li.sfHover {
-  background-color: #eeee;
+  background-color: white;
 }
 
 .sf-menu ul li a,
@@ -440,7 +440,7 @@ figure {
   left: 0;
   width: 100%;
   z-index: 1022;
-  background: #eee;
+  background: white;
 }
 
 .nav-header {
@@ -450,23 +450,35 @@ figure {
 }
 
 #fh5co-logo {
+  height: 40px;
+  width: 10%;
   position: relative;
   z-index: 2;
   font-size: 22px;
   text-transform: uppercase;
-  margin-top: 35px;
+  margin-top: 18px;
+
   font-weight: 700;
   float: left;
 }
+#logoimg{
+  width: 50%;
+  height: 100%;
+}
+
 #fh5co-logo span {
   font-weight: 700;
 }
 @media screen and (max-width: 768px) {
   #fh5co-logo {
-    width: 100%;
-    float: none;
-    text-align: center;
+
+width: 30%;
+height: 60px;
+float: left;
+   
   }
+ 
+  
 }
 #fh5co-logo a {
   color: 	 #0039a6;
@@ -476,12 +488,14 @@ figure {
 }
 
 #fh5co-menu-wrap {
+  width: 90%;
+  height: 40px;
   position: relative;
   z-index: 2;
   display: block;
   float: right;
   margin-top: 15px;
-  background-color: #eee;
+  background-color: white;
 }
 #fh5co-menu-wrap .sf-menu a {
   padding: 1em .75em;
@@ -1306,6 +1320,7 @@ figure {
 @media screen and (max-width: 768px) {
   #fh5co-menu-wrap {
     display: none;
+    width: 70%;
   }
 }
 
