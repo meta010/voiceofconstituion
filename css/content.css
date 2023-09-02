@@ -21,10 +21,12 @@ body {
   #header-top> h4{
     font-size: x-large;
     font-weight: 600;
+    color: black;
     
 
   }
   #header-top p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
+    color: black;
   }
